@@ -1,0 +1,3 @@
+**/*.jar  --all jar files anywhere
+abc.jar   --current directory
+target/*  -- folder:
